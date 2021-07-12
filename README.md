@@ -1,2 +1,2 @@
 # Music-vs-Speech-Classification
-Music and Speech files Classification using Gaussian Mixture Models and Estimation Maximisation Algorithm.
+Music and Speech files Classification using Gaussian Mixture Models and Expectation Maximisation Algorithm.
